@@ -48,7 +48,7 @@
   </section>
 
   <section class="content-card" id="artifact1">
-    <h2>Project 1: Software Engineering and Design</h2>
+    <h2>Artifact 1: Software Engineering and Design</h2>
     <p class="section-subtitle">3D OpenGL Scene | CS-330 Computational Graphics and Visualization</p>
 
     <p>This artifact is a 3D scene developed in C++ using OpenGL, originally created in the CS-330 Computational Graphics and Visualization course. The project involved rendering multiple objects with textures, lighting, and transformations to create a cohesive scene. While the original version successfully displayed the scene, much of the rendering logic was hardcoded and lacked flexibility.</p>
@@ -67,7 +67,7 @@
   </section>
 
   <section class="content-card" id="artifact2">
-    <h2>Project 2: Algorithms and Data Structures</h2>
+    <h2>Artifact 2: Algorithms and Data Structures</h2>
     <p class="section-subtitle">Course Planner | Data Structures and Algorithms</p>
 
     <p>This artifact is a course planner application developed in C++, originally created in a data structures and algorithms course. The program allows users to load course data, search for specific courses, and view prerequisite relationships. The original version provided basic functionality but was limited in its ability to efficiently handle more complex data relationships.</p>
@@ -86,7 +86,7 @@
   </section>
 
   <section class="content-card" id="artifact3">
-    <h2>Project 3: Databases</h2>
+    <h2>Artifact 3: Databases</h2>
     <p class="section-subtitle">MongoDB Animal Shelter Dashboard | CS-340 Advanced Programming Concepts</p>
 
     <p>This artifact is a data dashboard application built using Python, MongoDB, and Dash, originally developed in the CS-340 Advanced Programming Concepts course. The application allows users to interact with animal shelter data through filtering, visualization, and mapping. The original version provided basic functionality but relied on a more limited and less dynamic structure.</p>
