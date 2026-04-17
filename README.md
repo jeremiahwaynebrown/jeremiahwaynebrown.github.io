@@ -71,7 +71,7 @@ Note: Ensure OpenGL dependencies (GLEW, GLFW, etc.) are properly configured.
 ---
 
 ## Screenshots
-![OpenGL Scene](Screenshots/opengl-scene.png)
+![OpenGL Scene](Screenshots/artifact1-scene.png)
 
 ---
 
