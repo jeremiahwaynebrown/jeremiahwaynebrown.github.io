@@ -43,7 +43,7 @@
     <p>A code review is a process used to evaluate the quality of code and identify improvements. For this capstone, I reviewed my artifacts to improve structure, efficiency, and usability.</p>
 
     <div class="artifact-links">
-      <a href="https://www.youtube.com/watch?v=ABC123XYZ">Watch Code Review Video</a>
+      <a href="https://youtu.be/Zm4_M1PxIdg">Watch Code Review Video</a>
     </div>
   </section>
 
