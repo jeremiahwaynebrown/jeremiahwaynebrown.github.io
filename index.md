@@ -14,6 +14,8 @@
 
 A code review is a process used to evaluate the quality of code and identify improvements. For this capstone, I reviewed my artifacts to improve structure, efficiency, and usability.
 
+🎥 [Watch Code Review Video Here](https://www.youtube.com/watch?v=ABC123XYZ)
+
 ---
 
 ## Project 1: Software Engineering and Design
