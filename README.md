@@ -71,7 +71,7 @@ Note: Ensure OpenGL dependencies (GLEW, GLFW, etc.) are properly configured.
 ---
 
 ## Screenshots
-<img src="Screenshot 2026-04-16 201554.png" width "200"/>
+https://github.com/jeremiahwaynebrown/jeremiahwaynebrown.github.io/blob/artifact-1/Screenshot%202026-04-16%20201554.png
 
 ---
 
