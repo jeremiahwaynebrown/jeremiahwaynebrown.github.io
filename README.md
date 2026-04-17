@@ -78,3 +78,9 @@ All components update in real time based on user input.
 ---
 
 ### Screenshots
+
+![Dashboard](Screenshots/dashboard.png)
+![Dashboard](Screenshots/typefilter.png)
+![Dashboard](Screenshots/breedfilter.png)
+![Dashboard](Screenshots/outcomefilter.png)
+![Dashboard](Screenshots/map.png)
