@@ -14,7 +14,7 @@
 
 A code review is a process used to evaluate the quality of code and identify improvements. For this capstone, I reviewed my artifacts to improve structure, efficiency, and usability.
 
-🎥 [Watch Code Review Video Here](https://www.youtube.com/watch?v=ABC123XYZ)
+[Watch Code Review Video Here](https://www.youtube.com/watch?v=ABC123XYZ)
 
 ---
 
@@ -26,6 +26,8 @@ This artifact is a 3D OpenGL scene built in C++. It demonstrates object-oriented
 - Added SceneObject abstraction  
 - Implemented composite object system  
 - Improved modular design  
+
+
 
 ---
 
