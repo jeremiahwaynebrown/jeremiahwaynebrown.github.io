@@ -74,3 +74,7 @@ All components update in real time based on user input.
 3. Run:
    ```bash
    python dashboard.py
+
+---
+
+### Screenshots
