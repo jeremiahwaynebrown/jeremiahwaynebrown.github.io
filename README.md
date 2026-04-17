@@ -77,6 +77,15 @@ The application uses a CSV file containing:
 
 ---
 
+## Screenshots
+
+![Menu Options](Screenshots/menu.png)
+![Load Data](Screenshots/dataload.png)
+![Load Data](Screenshots/courselist.png)
+![Load Data](Screenshots/printcourse.png)
+![Load Data](Screenshots/printchain.png)
+![Load Data](Screenshots/exit.png)
+
 ## Author
 Jeremy Brown  
 Southern New Hampshire University  
