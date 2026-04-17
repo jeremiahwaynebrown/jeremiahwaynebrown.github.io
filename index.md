@@ -3,7 +3,7 @@
 
 ---
 
-<img src="Assets/profile.jpg" width="200"/>
+<img src="assets/profile.jpg" width="200"/>
 
 ## Computer Science Capstone  
 ### CS-499 | SNHU
@@ -27,7 +27,7 @@ This artifact is a 3D OpenGL scene built in C++. It demonstrates object-oriented
 - Implemented composite object system  
 - Improved modular design  
 
-
+[View Artifact 1 Code](https://github.com/jeremiahwaynebrown/jeremiahwaynebrown.github.io/tree/artifact-1)
 
 ---
 
@@ -40,6 +40,8 @@ This artifact is a course planner application using data structures.
 - Implemented prerequisite chain traversal  
 - Added circular dependency detection  
 
+[View Artifact 2 Code](https://github.com/jeremiahwaynebrown/jeremiahwaynebrown.github.io/tree/artifact-2)
+
 ---
 
 ## Project 3: Databases
@@ -50,6 +52,8 @@ This artifact is a MongoDB dashboard built with Dash.
 - Migrated to local MongoDB  
 - Added dynamic filtering  
 - Integrated map and visualization  
+
+[View Artifact 3 Code](https://github.com/jeremiahwaynebrown/jeremiahwaynebrown.github.io/tree/artifact3)
 
 ---
 
