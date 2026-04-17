@@ -3,7 +3,7 @@
 
 ---
 
-<img src="assets/profile.jpg" width="200"/>
+<img src="assets/profile.jpg" width="200" />
 
 ## Computer Science Capstone  
 ### CS-499 | SNHU
@@ -40,12 +40,15 @@ A code review is a process used to evaluate the quality of code and identify imp
 
 ## Project 1: Software Engineering and Design
 
-This artifact is a 3D OpenGL scene built in C++. It demonstrates object-oriented design and rendering techniques.
+This artifact is a 3D scene developed in C++ using OpenGL, originally created in the CS-330 Computational Graphics and Visualization course. The project involved rendering multiple objects with textures, lighting, and transformations to create a cohesive scene. While the original version successfully displayed the scene, much of the rendering logic was hardcoded and lacked flexibility.
 
-### Enhancements
-- Added SceneObject abstraction  
-- Implemented composite object system  
-- Improved modular design  
+I selected this artifact because it best demonstrates my ability to apply software engineering and design principles to improve an existing system. The original implementation relied heavily on a single rendering function, which made the code difficult to maintain and extend. Through my enhancements, I introduced a more modular structure by implementing abstractions such as reusable scene objects and organizing rendering logic into a more scalable system. These changes highlight my understanding of object-oriented design, code organization, and maintainability.
+
+The enhancement significantly improved the artifact by separating data from rendering logic and allowing objects to be managed dynamically rather than hardcoded. This not only made the system easier to expand but also improved readability and reusability. Through this process, I demonstrated skills in software architecture, abstraction, and refactoring.
+
+While enhancing this artifact, I learned the importance of designing systems with scalability in mind from the beginning. One of the main challenges I faced was restructuring existing code without breaking functionality, which required careful testing and incremental changes. I also had to rethink how objects were represented and rendered, which deepened my understanding of object-oriented programming concepts. Feedback from earlier work helped guide my focus toward improving modularity and maintainability rather than simply adding new features.
+
+This artifact aligns strongly with course outcomes related to software engineering and design, particularly in creating maintainable and well-structured code. It also demonstrates problem-solving and critical thinking skills through the process of analyzing and improving an existing system. While this enhancement primarily focused on design, it also touched on performance and efficiency, though those areas could be further expanded in future work.
 
 [View Artifact 1 Code](https://github.com/jeremiahwaynebrown/jeremiahwaynebrown.github.io/tree/artifact-1)
 
@@ -53,12 +56,15 @@ This artifact is a 3D OpenGL scene built in C++. It demonstrates object-oriented
 
 ## Project 2: Algorithms and Data Structures
 
-This artifact is a course planner application using data structures.
+This artifact is a course planner application developed in C++, originally created in a data structures and algorithms course. The program allows users to load course data, search for specific courses, and view prerequisite relationships. The original version provided basic functionality but was limited in its ability to efficiently handle more complex data relationships.
 
-### Enhancements
-- Added hash map lookup  
-- Implemented prerequisite chain traversal  
-- Added circular dependency detection  
+I chose this artifact because it demonstrates my ability to work with algorithms and data structures to improve both performance and functionality. The original implementation relied on simpler structures and only displayed direct prerequisites. Through enhancement, I introduced more efficient data handling using structures such as hash maps and implemented recursive logic to traverse full prerequisite chains. These changes allowed the program to handle more complex relationships and improved its overall usability.
+
+The enhancements improved the artifact by increasing efficiency and expanding functionality. The addition of recursive traversal provided deeper insight into course dependencies, while the use of optimized data structures improved lookup performance. These improvements highlight my ability to analyze a problem and apply appropriate algorithmic solutions.
+
+During this process, I gained a stronger understanding of how algorithm design impacts application performance and scalability. One challenge I encountered was ensuring that recursive logic handled all edge cases, such as missing data or potential circular dependencies. Addressing these challenges required careful testing and validation. Feedback from previous coursework encouraged me to focus not just on making the program work, but on making it efficient and reliable.
+
+This artifact aligns with course outcomes related to algorithms and data structures, particularly in designing efficient solutions and implementing appropriate data structures. It also demonstrates analytical thinking and problem-solving skills. While the project successfully improved performance and complexity, there is still room to expand into more advanced graph algorithms in future work.
 
 [View Artifact 2 Code](https://github.com/jeremiahwaynebrown/jeremiahwaynebrown.github.io/tree/artifact-2)
 
@@ -66,12 +72,15 @@ This artifact is a course planner application using data structures.
 
 ## Project 3: Databases
 
-This artifact is a MongoDB dashboard built with Dash.
+This artifact is a data dashboard application built using Python, MongoDB, and Dash, originally developed in the CS-340 Advanced Programming Concepts course. The application allows users to interact with animal shelter data through filtering, visualization, and mapping. The original version provided basic functionality but relied on a more limited and less dynamic structure.
 
-### Enhancements
-- Migrated to local MongoDB  
-- Added dynamic filtering  
-- Integrated map and visualization  
+I selected this artifact because it demonstrates my ability to work with databases and integrate them into a full-stack application. The project showcases my understanding of CRUD operations, data handling, and user interaction. Through enhancement, I improved the system by transitioning to a local MongoDB environment, implementing more dynamic query functionality, and enhancing the dashboard’s interactivity.
+
+The enhancements significantly improved the artifact by making it more flexible and user-driven. Instead of relying on predefined filters, the application now allows users to dynamically query the database, which provides a more realistic and practical use case. These changes demonstrate my skills in database design, backend development, and data visualization.
+
+Through this process, I learned how to connect multiple components of a system, including the database, backend logic, and frontend interface. One of the main challenges I faced was configuring the local database environment and ensuring consistent communication between the application and MongoDB. Troubleshooting these issues helped me better understand how real-world systems are deployed and maintained. Feedback from earlier assignments encouraged me to improve usability and focus on creating a more interactive user experience.
+
+This artifact aligns with course outcomes related to database systems and full-stack development. It demonstrates my ability to design and implement data-driven applications and highlights my understanding of how databases support user-facing systems. While this project effectively demonstrates database integration, future improvements could include additional security measures and more advanced data analysis features.
 
 [View Artifact 3 Code](https://github.com/jeremiahwaynebrown/jeremiahwaynebrown.github.io/tree/artifact3)
 
