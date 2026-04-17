@@ -3,7 +3,7 @@
 
 ---
 
-<img src="assets/profile.jpg" width="200"/>
+<img src="Assets/profile.jpg" width="200"/>
 
 ## Computer Science Capstone  
 ### CS-499 | SNHU
