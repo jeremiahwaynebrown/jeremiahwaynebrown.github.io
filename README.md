@@ -1,83 +1,76 @@
-# Artifact 2 – Course Planner
+# Artifact 3 – MongoDB Animal Shelter Dashboard
 
 ## Overview
-This project is a course planning application developed in C++. It allows users to load course data, search for courses, and analyze prerequisite relationships.
+This project is a full-stack data dashboard built using Python, MongoDB, and Dash. It allows users to interactively explore animal shelter data through filtering, visualization, and mapping.
 
-Originally developed in a data structures course, this artifact was enhanced to demonstrate advanced algorithmic concepts and improved data handling.
+Originally developed in CS-340, this artifact was enhanced to demonstrate real-world database integration and dynamic data visualization.
 
 ---
 
 ## Original Functionality
-The application allowed users to:
-- Load course data from a CSV file
-- Print a list of all courses
-- Search for a specific course
-- Display direct prerequisites
+The original application included:
+- Basic MongoDB CRUD operations
+- A dashboard built with JupyterDash
+- Predefined filter buttons
+- Static data display
 
 ---
 
 ## Enhancements
 
-### 1. Hash Map Integration
-A hash map (`unordered_map`) was added to:
-- Improve lookup performance
-- Enable constant-time course retrieval
+### 1. Local MongoDB Integration
+The application was migrated from a remote environment to a local MongoDB instance, improving:
+- Accessibility
+- Performance
+- Real-world applicability
 
 ---
 
-### 2. Recursive Prerequisite Chain Traversal
-A recursive function was implemented to:
-- Display the full prerequisite chain for a course
-- Traverse dependencies beyond just direct prerequisites
+### 2. Improved CRUD Module
+The `AnimalShelter` class was enhanced with:
+- Create, Read, Update, Delete functionality
+- Error handling
+- Input validation
 
 ---
 
-### 3. Circular Dependency Detection
-A cycle detection algorithm was added using:
-- A visited set
-- A recursion stack
+### 3. Dynamic Filtering System
+Replaced static buttons with dropdown filters:
+- Animal type
+- Breed
+- Outcome type
 
-This prevents invalid course structures and demonstrates graph-based logic.
+Queries are now built dynamically and executed against MongoDB.
 
 ---
 
-### 4. Input Validation and Normalization
-Enhancements include:
-- Normalizing course IDs (uppercase consistency)
-- Validating CSV input data
-- Handling missing or malformed data
+### 4. Interactive Dashboard
+The dashboard now includes:
+- Data table with sorting and filtering
+- Interactive map showing animal locations
+- Pie chart visualization of breed distribution
+
+All components update in real time based on user input.
 
 ---
 
 ## Skills Demonstrated
-- Algorithm design and analysis
-- Recursion and graph traversal
-- Data structures (hash maps, trees)
-- Input validation and error handling
+- Database design (MongoDB)
+- Full-stack development
+- API-style CRUD operations
+- Data visualization with Dash and Plotly
 
 ---
 
 ## How to Run
-1. Compile the program using a C++ compiler
-2. Run the executable
-3. Follow the menu prompts
 
-Example:
-- Load data
-- Search for a course
-- View dependency chain
+### Requirements
+- Python 3.x
+- MongoDB installed and running
 
----
-
-## Sample Data
-The application uses a CSV file containing:
-- Course ID
-- Course name
-- Prerequisites
-
----
-
-## Author
-Jeremy Brown  
-Southern New Hampshire University  
-CS-499 Capstone
+### Steps
+1. Start MongoDB service
+2. Import dataset using `mongoimport`
+3. Run:
+   ```bash
+   python dashboard.py
