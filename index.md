@@ -106,7 +106,7 @@
 
   <section class="content-card">
     <h2>Author</h2>
-    <p>Jeremy Brown<br>SNHU Computer Science</p>
+    <p>Jeremiah Brown<br>SNHU Computer Science</p>
   </section>
 
 </div>
