@@ -9,9 +9,9 @@
 <div class="main-content">
 
   <div class="hero">
-    <h1>Jeremy Brown</h1>
+    <h1>Jeremiah Brown</h1>
     <p>This is my final project for CS-499, Computer Science Capstone at SNHU.</p>
-    <img src="assets/headshot.jpg" class="profile-img" alt="Jeremy Brown profile photo">
+    <img src="assets/headshot.jpg" class="profile-img" alt="Jeremiah Brown profile photo">
     <h2>Computer Science Capstone</h2>
     <p>CS-499 | SNHU</p>
   </div>
